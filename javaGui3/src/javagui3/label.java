@@ -7,7 +7,7 @@ package javagui3;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class label {
     
