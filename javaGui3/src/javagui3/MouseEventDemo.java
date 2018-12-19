@@ -14,7 +14,7 @@ import java.awt.event.MouseMotionListener;
 
 /**
  *
- * @author ajid
+ * @author 
  */
 public class MouseEventDemo extends Frame implements MouseListener,MouseMotionListener{
     
