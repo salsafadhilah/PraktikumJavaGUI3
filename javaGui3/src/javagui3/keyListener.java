@@ -10,7 +10,7 @@ import java.awt.event.KeyListener;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class keyListener extends javax.swing.JFrame implements KeyListener{
 
