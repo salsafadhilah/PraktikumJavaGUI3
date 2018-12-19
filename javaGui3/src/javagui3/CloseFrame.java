@@ -12,7 +12,7 @@ import java.awt.event.WindowListener;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class CloseFrame extends Frame implements WindowListener{
     
