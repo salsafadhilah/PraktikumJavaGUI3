@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class validasiForm extends javax.swing.JFrame {
 
