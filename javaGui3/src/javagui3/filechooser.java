@@ -10,7 +10,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class filechooser extends javax.swing.JFrame {
 
