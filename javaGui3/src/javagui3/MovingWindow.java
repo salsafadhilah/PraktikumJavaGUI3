@@ -10,7 +10,7 @@ import java.awt.event.ComponentListener;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class MovingWindow extends javax.swing.JFrame implements ComponentListener{
 
