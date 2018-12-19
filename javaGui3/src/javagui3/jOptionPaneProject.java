@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ajid
+ * @author salsa
  */
 public class jOptionPaneProject extends javax.swing.JFrame {
 
